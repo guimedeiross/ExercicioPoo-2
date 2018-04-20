@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Agenda.cs" />
+    <Compile Include="Aposentadoria.cs" />
+    <Compile Include="Estacionamento.cs" />
+    <Compile Include="Populacao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
